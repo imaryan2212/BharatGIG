@@ -1,1 +1,1 @@
-# This project is developed under the auspices of BharatGiG.
+# The projects is developed under the auspices of BharatGiG.
